@@ -185,5 +185,8 @@ const books = [
 ];
 // Resultado --> 60
 
+<img width="1486" alt="Captura de pantalla 2025-03-19 a las 13 39 11" src="https://github.com/user-attachments/assets/870ff526-6dfc-4162-b47e-715b018d3d75" />
+
+
 ```
 
